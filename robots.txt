@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.Jugalkapde.ml/sitemap.xml
+Sitemap: https://www.Jugalkapde.site/sitemap.xml
